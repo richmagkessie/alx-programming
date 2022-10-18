@@ -10,6 +10,6 @@ for (le = 'z'; le >= 'a'; le--)
 {
 putchar(le);
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
