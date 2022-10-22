@@ -1,5 +1,5 @@
-#include "MAIN.H"
-#include "MAIN.H"
+#ifndef MAIN.H
+#include MAIN.H
 
 int _isupper(int c);
 int _isdigit(int c);
